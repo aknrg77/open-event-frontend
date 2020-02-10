@@ -1,0 +1,402 @@
+{
+  "charset": "utf-8",
+  "headers": {
+    "project-id-version": "open-event-frontend",
+    "report-msgid-bugs-to": "open-event@googlegroups.com",
+    "pot-creation-date": "2019-01-31 16:31+0800",
+    "po-revision-date": "2017-06-29 15:01-0400",
+    "last-translator": "fossasia <me@niranjan.io>",
+    "language-team": "Hindi",
+    "language": "hi",
+    "mime-version": "1.0",
+    "content-type": "text/plain; charset=UTF-8",
+    "content-transfer-encoding": "8bit",
+    "plural-forms": "nplurals=2; plural=(n != 1);",
+    "x-generator": "crowdin.com",
+    "x-crowdin-project": "open-event-frontend",
+    "x-crowdin-language": "hi",
+    "x-crowdin-file": "/development/translations/en.po"
+  },
+  "translations": {
+    "": {
+      "Accepted": {
+        "msgid": "Accepted",
+        "msgstr": [
+          "स्वीकृत"
+        ]
+      },
+      "Admin": {
+        "msgid": "Admin",
+        "msgstr": [
+          "प्रशासन"
+        ]
+      },
+      "All Dates": {
+        "msgid": "All Dates",
+        "msgstr": [
+          "सभी तारीखें"
+        ]
+      },
+      "Audio": {
+        "msgid": "Audio",
+        "msgstr": [
+          "ऑडियो"
+        ]
+      },
+      "Browse Events": {
+        "msgid": "Browse Events",
+        "msgstr": [
+          "घटना चरना"
+        ]
+      },
+      "Cancel": {
+        "msgid": "Cancel",
+        "msgstr": [
+          "रद्द करना"
+        ]
+      },
+      "Categories": {
+        "msgid": "Categories",
+        "msgstr": [
+          "श्रेणियाँ"
+        ]
+      },
+      "Copy": {
+        "msgid": "Copy",
+        "msgstr": [
+          "प्रतिलिपि"
+        ]
+      },
+      "Create Event": {
+        "msgid": "Create Event",
+        "msgstr": [
+          "कार्यक्रम बनाएँ"
+        ]
+      },
+      "Date": {
+        "msgid": "Date",
+        "msgstr": [
+          "तारीख"
+        ]
+      },
+      "Delete": {
+        "msgid": "Delete",
+        "msgstr": [
+          "मिटाना"
+        ]
+      },
+      "Document": {
+        "msgid": "Document",
+        "msgstr": [
+          "दस्तावेज़"
+        ]
+      },
+      "Download": {
+        "msgid": "Download",
+        "msgstr": [
+          "डाउनलोड"
+        ]
+      },
+      "Draft": {
+        "msgid": "Draft",
+        "msgstr": [
+          "प्रारूप"
+        ]
+      },
+      "Events": {
+        "msgid": "Events",
+        "msgstr": [
+          "आयोजन"
+        ]
+      },
+      "Export": {
+        "msgid": "Export",
+        "msgstr": [
+          "निर्यात"
+        ]
+      },
+      "Facebook": {
+        "msgid": "Facebook",
+        "msgstr": [
+          "फेसबुक"
+        ]
+      },
+      "Github": {
+        "msgid": "Github",
+        "msgstr": [
+          "गिटहब"
+        ]
+      },
+      "here": {
+        "msgid": "here",
+        "msgstr": [
+          "यहाँ"
+        ]
+      },
+      "Image": {
+        "msgid": "Image",
+        "msgstr": [
+          "छवि"
+        ]
+      },
+      "Import": {
+        "msgid": "Import",
+        "msgstr": [
+          "आयात"
+        ]
+      },
+      "Invited": {
+        "msgid": "Invited",
+        "msgstr": [
+          "आमंत्रित"
+        ]
+      },
+      "Level": {
+        "msgid": "Level",
+        "msgstr": [
+          "स्तर"
+        ]
+      },
+      "Live": {
+        "msgid": "Live",
+        "msgstr": [
+          "जीना"
+        ]
+      },
+      "Locations": {
+        "msgid": "Locations",
+        "msgstr": [
+          "स्थान"
+        ]
+      },
+      "Logo": {
+        "msgid": "Logo",
+        "msgstr": [
+          "प्रतीक चिन्ह"
+        ]
+      },
+      "Logout": {
+        "msgid": "Logout",
+        "msgstr": [
+          "लोग आउट"
+        ]
+      },
+      "Manage Events": {
+        "msgid": "Manage Events",
+        "msgstr": [
+          "घटनाओं का प्रबंधन"
+        ]
+      },
+      "Message": {
+        "msgid": "Message",
+        "msgstr": [
+          "संदेश"
+        ]
+      },
+      "My Sessions": {
+        "msgid": "My Sessions",
+        "msgstr": [
+          "मेरे सत्र"
+        ]
+      },
+      "My Tickets": {
+        "msgid": "My Tickets",
+        "msgstr": [
+          "मेरा टिकट"
+        ]
+      },
+      "Name": {
+        "msgid": "Name",
+        "msgstr": [
+          "नाम"
+        ]
+      },
+      "Next Week": {
+        "msgid": "Next Week",
+        "msgstr": [
+          "अगले सप्ताह"
+        ]
+      },
+      "Notifications": {
+        "msgid": "Notifications",
+        "msgstr": [
+          "सूचनाएं"
+        ]
+      },
+      "Options": {
+        "msgid": "Options",
+        "msgstr": [
+          "विकल्प"
+        ]
+      },
+      "Past": {
+        "msgid": "Past",
+        "msgstr": [
+          "अतीत"
+        ]
+      },
+      "Pending": {
+        "msgid": "Pending",
+        "msgstr": [
+          "अपूर्ण"
+        ]
+      },
+      "Public": {
+        "msgid": "Public",
+        "msgstr": [
+          "सार्वजनिक"
+        ]
+      },
+      "Publish": {
+        "msgid": "Publish",
+        "msgstr": [
+          "प्रकाशित करना"
+        ]
+      },
+      "Rejected": {
+        "msgid": "Rejected",
+        "msgstr": [
+          "अस्वीकृत"
+        ]
+      },
+      "Role": {
+        "msgid": "Role",
+        "msgstr": [
+          "भूमिका"
+        ]
+      },
+      "Search": {
+        "msgid": "Search",
+        "msgstr": [
+          "खोज"
+        ]
+      },
+      "Sessions": {
+        "msgid": "Sessions",
+        "msgstr": [
+          "सत्र"
+        ]
+      },
+      "Settings": {
+        "msgid": "Settings",
+        "msgstr": [
+          "समायोजन"
+        ]
+      },
+      "Share this event": {
+        "msgid": "Share this event",
+        "msgstr": [
+          "इस घटना को साझा करें"
+        ]
+      },
+      "Speakers": {
+        "msgid": "Speakers",
+        "msgstr": [
+          "वक्ता"
+        ]
+      },
+      "Start": {
+        "msgid": "Start",
+        "msgstr": [
+          "प्रारंभ"
+        ]
+      },
+      "Started": {
+        "msgid": "Started",
+        "msgstr": [
+          "शुरू कर दिया है"
+        ]
+      },
+      "State": {
+        "msgid": "State",
+        "msgstr": [
+          "राज्य"
+        ]
+      },
+      "Status": {
+        "msgid": "Status",
+        "msgstr": [
+          "स्थिति"
+        ]
+      },
+      "Success": {
+        "msgid": "Success",
+        "msgstr": [
+          "सफलता"
+        ]
+      },
+      "Support": {
+        "msgid": "Support",
+        "msgstr": [
+          "समर्थन"
+        ]
+      },
+      "The simplest way to create events.": {
+        "msgid": "The simplest way to create events.",
+        "msgstr": [
+          "घटनाओ  का आयोजन करने के लिए सबसे आसान तरीका है"
+        ]
+      },
+      "This Month": {
+        "msgid": "This Month",
+        "msgstr": [
+          "इस महीने"
+        ]
+      },
+      "This Week": {
+        "msgid": "This Week",
+        "msgstr": [
+          "इस सप्ताह"
+        ]
+      },
+      "This Weekend": {
+        "msgid": "This Weekend",
+        "msgstr": [
+          "इस सप्ताहांत"
+        ]
+      },
+      "Tickets": {
+        "msgid": "Tickets",
+        "msgstr": [
+          "टिकट"
+        ]
+      },
+      "Today": {
+        "msgid": "Today",
+        "msgstr": [
+          "आज"
+        ]
+      },
+      "Tomorrow": {
+        "msgid": "Tomorrow",
+        "msgstr": [
+          "आने वाला कल"
+        ]
+      },
+      "Twitter": {
+        "msgid": "Twitter",
+        "msgstr": [
+          "ट्विटर"
+        ]
+      },
+      "Type": {
+        "msgid": "Type",
+        "msgstr": [
+          "प्रकार"
+        ]
+      },
+      "Upcoming Events": {
+        "msgid": "Upcoming Events",
+        "msgstr": [
+          "आने वाले कार्यक्रम"
+        ]
+      },
+      "Youtube": {
+        "msgid": "Youtube",
+        "msgstr": [
+          "यूट्यूब"
+        ]
+      }
+    }
+  }
+}

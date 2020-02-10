@@ -1,0 +1,258 @@
+{
+  "charset": "utf-8",
+  "headers": {
+    "project-id-version": "open-event-frontend",
+    "report-msgid-bugs-to": "open-event@googlegroups.com",
+    "pot-creation-date": "2019-01-31 16:31+0800",
+    "po-revision-date": "2017-07-03 05:02-0400",
+    "last-translator": "fossasia <me@niranjan.io>",
+    "language-team": "German",
+    "language": "de",
+    "mime-version": "1.0",
+    "content-type": "text/plain; charset=UTF-8",
+    "content-transfer-encoding": "8bit",
+    "plural-forms": "nplurals=2; plural=(n != 1);",
+    "x-generator": "crowdin.com",
+    "x-crowdin-project": "open-event-frontend",
+    "x-crowdin-language": "de",
+    "x-crowdin-file": "/development/translations/en.po"
+  },
+  "translations": {
+    "": {
+      "Address": {
+        "msgid": "Address",
+        "msgstr": [
+          "Adressse"
+        ]
+      },
+      "Admin": {
+        "msgid": "Admin",
+        "msgstr": [
+          "Administrator"
+        ]
+      },
+      "All Dates": {
+        "msgid": "All Dates",
+        "msgstr": [
+          "Alle Termine"
+        ]
+      },
+      "Browse Events": {
+        "msgid": "Browse Events",
+        "msgstr": [
+          "Veranstaltungen Ansehen"
+        ]
+      },
+      "Call for Speakers": {
+        "msgid": "Call for Speakers",
+        "msgstr": [
+          "Aufruf für Vortragende"
+        ]
+      },
+      "Categories": {
+        "msgid": "Categories",
+        "msgstr": [
+          "Kategorien"
+        ]
+      },
+      "Create Event": {
+        "msgid": "Create Event",
+        "msgstr": [
+          "Ereignis erstellen"
+        ]
+      },
+      "Date": {
+        "msgid": "Date",
+        "msgstr": [
+          "Datum"
+        ]
+      },
+      "Events": {
+        "msgid": "Events",
+        "msgstr": [
+          "Veranstaltungen"
+        ]
+      },
+      "here": {
+        "msgid": "here",
+        "msgstr": [
+          "hier"
+        ]
+      },
+      "Import Event": {
+        "msgid": "Import Event",
+        "msgstr": [
+          "Veranstaltung laden"
+        ]
+      },
+      "Locations": {
+        "msgid": "Locations",
+        "msgstr": [
+          "Orte"
+        ]
+      },
+      "Logout": {
+        "msgid": "Logout",
+        "msgstr": [
+          "Abmelden"
+        ]
+      },
+      "Manage Events": {
+        "msgid": "Manage Events",
+        "msgstr": [
+          "Veranstaltungen Verwalten"
+        ]
+      },
+      "Message": {
+        "msgid": "Message",
+        "msgstr": [
+          "Nachricht"
+        ]
+      },
+      "My Sessions": {
+        "msgid": "My Sessions",
+        "msgstr": [
+          "Meine Sitzungen"
+        ]
+      },
+      "My Tickets": {
+        "msgid": "My Tickets",
+        "msgstr": [
+          "Meine Tickets"
+        ]
+      },
+      "Next Week": {
+        "msgid": "Next Week",
+        "msgstr": [
+          "Nächste Woche"
+        ]
+      },
+      "Notifications": {
+        "msgid": "Notifications",
+        "msgstr": [
+          "Benachrichtigungen"
+        ]
+      },
+      "Profile": {
+        "msgid": "Profile",
+        "msgstr": [
+          "Profil"
+        ]
+      },
+      "Public": {
+        "msgid": "Public",
+        "msgstr": [
+          "Öffentlich"
+        ]
+      },
+      "Search": {
+        "msgid": "Search",
+        "msgstr": [
+          "Suche"
+        ]
+      },
+      "Select event source file to import": {
+        "msgid": "Select event source file to import",
+        "msgstr": [
+          "Wähle Veranstaltungsquelldatei zum Laden"
+        ]
+      },
+      "Sessions": {
+        "msgid": "Sessions",
+        "msgstr": [
+          "Sitzungen"
+        ]
+      },
+      "Settings": {
+        "msgid": "Settings",
+        "msgstr": [
+          "Einstellungen"
+        ]
+      },
+      "Share this event": {
+        "msgid": "Share this event",
+        "msgstr": [
+          "Diese Veranstaltung teilen"
+        ]
+      },
+      "Speakers": {
+        "msgid": "Speakers",
+        "msgstr": [
+          "Vortragende"
+        ]
+      },
+      "Started": {
+        "msgid": "Started",
+        "msgstr": [
+          "Gestartet"
+        ]
+      },
+      "State": {
+        "msgid": "State",
+        "msgstr": [
+          "Zustand"
+        ]
+      },
+      "Success": {
+        "msgid": "Success",
+        "msgstr": [
+          "Erfolg"
+        ]
+      },
+      "Support": {
+        "msgid": "Support",
+        "msgstr": [
+          "Unterstützung"
+        ]
+      },
+      "The simplest way to create events.": {
+        "msgid": "The simplest way to create events.",
+        "msgstr": [
+          "Die einfachste Weise, Veranstaltungen zu erstellen."
+        ]
+      },
+      "This Month": {
+        "msgid": "This Month",
+        "msgstr": [
+          "Diesen Monat"
+        ]
+      },
+      "This Week": {
+        "msgid": "This Week",
+        "msgstr": [
+          "Diese Woche"
+        ]
+      },
+      "This Weekend": {
+        "msgid": "This Weekend",
+        "msgstr": [
+          "Dieses Wochenende"
+        ]
+      },
+      "Today": {
+        "msgid": "Today",
+        "msgstr": [
+          "Heute"
+        ]
+      },
+      "Tomorrow": {
+        "msgid": "Tomorrow",
+        "msgstr": [
+          "Morgen"
+        ]
+      },
+      "Upcoming Events": {
+        "msgid": "Upcoming Events",
+        "msgstr": [
+          "Zukünftige Veranstaltungen"
+        ]
+      },
+      "Zip Code": {
+        "msgid": "Zip Code",
+        "msgstr": [
+          "Postleitzahl"
+        ]
+      }
+    }
+  }
+}
